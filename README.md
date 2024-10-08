@@ -13,5 +13,4 @@
   </a>
 </p>
 
-
-Designing and producing the next-gen propulsion system for cubesats and smallsats.
+Capsule Corporation is an Italian start-up developing WaterCube, an innovative water-based propulsion unit for Cubesats and Smallsats. We built and tested our demonstrator unit to show technological feasibility in 2023, and we are now developing our first fully integrated engineering model, that will prove our capability to deliver a flight-worthy system as next step. Indeed, the maiden launch is slated for Q3 2025, and the product is scheduled to be offered on the market starting from Q4 2025. This groundbreaking space propulsion system will play a pivotal role in advancing space sustainability for Cubesats and Smallsats by enabling crucial functions such as collision avoidance, de-orbiting, and extended spacecraft lifetime, at a reduced price and increased sustainability compared to competitors' products currently on the market. 
